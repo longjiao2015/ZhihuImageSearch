@@ -4,10 +4,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="andrew.cmu.edu.photosearch.GalleryActivity">
+    tools:context="johnwan.test.photosearch.GalleryActivity">
     <fragment
         android:id="@+id/gallery_fragment"
-        android:name="andrew.cmu.edu.photosearch.GalleryFragment"
+        android:name="johnwan.test.photosearch.GalleryFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
 </RelativeLayout>

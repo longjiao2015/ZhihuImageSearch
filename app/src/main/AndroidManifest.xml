@@ -9,7 +9,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="johnwan.test.photosearch.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
@@ -17,7 +17,7 @@
         </activity>
 
         <activity
-            android:name=".GalleryActivity"
+            android:name="johnwan.test.photosearch.GalleryActivity"
             android:launchMode="singleTop">
             <intent-filter>
                 <action android:name="android.intent.action.SEARCH"/>
@@ -32,7 +32,7 @@
         </activity>
 
         <activity
-            android:name=".PhotoActivity">
+            android:name="johnwan.test.photosearch.PhotoActivity">
         </activity>
     </application>
 </manifest>

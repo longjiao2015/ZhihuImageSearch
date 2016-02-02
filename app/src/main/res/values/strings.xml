@@ -4,4 +4,6 @@
     <string name="move">Move To Top</string>
     <string name="clear">Clear Search History</string>
     <string name="search_hint">Put Zhihu question url here</string>
+    <string name="download">Download</string>
+    <string name="open_in_app">Open In App</string>
 </resources>
