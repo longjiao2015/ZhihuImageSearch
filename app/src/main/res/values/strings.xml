@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ZhihuImgSearch</string>
+    <string name="search">Search</string>
+    <string name="move">Move To Top</string>
+    <string name="clear">Clear Search History</string>
+    <string name="search_hint">Put Zhihu question url here</string>
+</resources>
